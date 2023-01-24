@@ -1,6 +1,9 @@
 # Flashcards-App-With-Django
 In this project, we build a [flashcards](https://en.wikipedia.org/wiki/Flashcard) app, and the database based on Leitner system, a method who based on spaced repetition, where cards are reviewed at increasing intervals (for more information about Leitner system, see [here](https://en.wikipedia.org/wiki/Leitner_system).
 
+![image](https://user-images.githubusercontent.com/93486933/214278773-54cfddfa-ec57-46a0-861e-ca20a4877984.png)
+
+
 In our example, we used the app to practice capital cities, but you can use the app to any type of practice you want.
 * We have five boxes that can contain flashcards.
 * When you create a flashcard, you put it into the first box.
